@@ -1,16 +1,24 @@
-## Hi there 👋
+# About
 
-<!--
-**devansh462-hub/devansh462-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Devansh, a passionate software developer and technology enthusiast. I love exploring new technologies, solving complex problems, and building innovative solutions.
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: Python, JavaScript, Java
+- **Web Technologies**: HTML, CSS, React, Node.js
+- **Databases**: MySQL, MongoDB
+- **Tools & Platforms**: Git, Docker, AWS
+
+# Projects
+
+- **Project 1**: [Project Title](https://github.com/devansh462-hub/project1) - A brief description of the project.
+- **Project 2**: [Project Title](https://github.com/devansh462-hub/project2) - A brief description of the project.
+- **Project 3**: [Project Title](https://github.com/devansh462-hub/project3) - A brief description of the project.
+
+# Contact Information
+
+Feel free to reach out for collaboration or just to connect!
+
+- **Email**: devansh@example.com
+- **LinkedIn**: [Devansh LinkedIn](https://linkedin.com/in/devansh)
+- **Twitter**: [@devansh462](https://twitter.com/devansh462)
