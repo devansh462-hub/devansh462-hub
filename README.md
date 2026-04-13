@@ -1,24 +1,31 @@
-# About
+# Hi there! 👋 I'm Devansh
 
-Hello! I'm Devansh, a passionate software developer and technology enthusiast. I love exploring new technologies, solving complex problems, and building innovative solutions.
+## 🔧 Skills
+- 🧑‍💻 Programming Languages: Python, JavaScript, Java
+- 🛠️ Frameworks: React, Node.js, Django
+- 🗄️ Databases: MySQL, MongoDB
 
-# Skills
+## 🚀 Projects Showcase
+### 📦 Project 1: Amazing App
+- Description: A web application that does amazing things! 
+- [GitHub Repo](https://github.com/devansh462-hub/amazing-app) 
 
-- **Programming Languages**: Python, JavaScript, Java
-- **Web Technologies**: HTML, CSS, React, Node.js
-- **Databases**: MySQL, MongoDB
-- **Tools & Platforms**: Git, Docker, AWS
+### 📦 Project 2: Another App
+- Description: Another web app that integrates with cool APIs! 
+- [GitHub Repo](https://github.com/devansh462-hub/another-app) 
 
-# Projects
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/devansh462/)
+- [Twitter](https://twitter.com/devansh462)
+- [Personal Website](https://devansh462.com)
 
-- **Project 1**: [Project Title](https://github.com/devansh462-hub/project1) - A brief description of the project.
-- **Project 2**: [Project Title](https://github.com/devansh462-hub/project2) - A brief description of the project.
-- **Project 3**: [Project Title](https://github.com/devansh462-hub/project3) - A brief description of the project.
+## 📈 Stats
+![Devansh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=devansh462-hub&show_icons=true&theme=radical)
 
-# Contact Information
+## 🏷️ Badges
+![GitHub Badge](https://img.shields.io/badge/skills-python-blue)
+![GitHub Badge](https://img.shields.io/badge/skills-javascript-yellow)
 
-Feel free to reach out for collaboration or just to connect!
+---
 
-- **Email**: devansh@example.com
-- **LinkedIn**: [Devansh LinkedIn](https://linkedin.com/in/devansh)
-- **Twitter**: [@devansh462](https://twitter.com/devansh462)
+### 🌟 Thank you for visiting my profile!
